@@ -156,4 +156,3 @@ If you're part of this study group, feel free to:
 
 ---
 
-## 🙌 Let's Learn Python and ML Together!
